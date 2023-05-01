@@ -8,4 +8,3 @@ Past broadcasts on https://www.youtube.com/channel/UCHzHGOiKEAalDk5atWpBLmg
 # Current work: Activation functions VM
 
  * https://github.com/sonos/tract/pull/1008 
- * Previously, 
